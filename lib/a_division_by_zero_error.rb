@@ -1,3 +1,3 @@
-42 / 6
-
-42 / 0
+please = 42 / 6
+work = 42 / 1
+complaint = "buggy"
